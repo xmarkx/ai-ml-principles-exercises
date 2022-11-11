@@ -8,6 +8,7 @@ An overview of the current exercises are:
 ## Introductional exercises
 - `ML-training/intro-to-libraries` [EASY]: Introduction to different python libraries common in Machine Learning
 - `ML-training/cv-crash-course` [EASY]: Crash course in Computer Vision and ML with `Python` and `sklearn`
+- `ML-inference/intro-to-flask` [EASY]: A simple example how to make a web based REST endpoint for a model
 
 ## MLOps and best practices
 - `ML-training/logging-trainings-with-WandB` [INTERMEDIATE]: Getting started with experiment tracking in `Weights and Biases`
